@@ -5,4 +5,4 @@ Progetto di Basi di Dati dell'anno 2020 del corso di Ingengeria Informatica dell
 
 Il codice completo è all'interno di `Progetto.sql`, è presente anche il codice separato per facilitare l'ispezione.  
 
-I dettagli completi sono spiegati all'interno del file di documentazione.
+I dettagli completi sono spiegati all'interno del file di documentazione `Relazione.pdf`.
